@@ -39,6 +39,8 @@
 ## Live Demo of Live Markdown Editor 🔥
 
 ![Website Up](https://img.shields.io/website?url=https://github.com/saviomartin/markdown-editor&logo=github&style=flat-square) <br>
+View the app live, share the happiness [https://markdown-editor-bysavio.netlify.app/](https://markdown-editor-bysavio.netlify.app/) <br>
+**⭐ this project, if you found it helpful**
 
 ## Live Markdown Editor Features 🎮
 
