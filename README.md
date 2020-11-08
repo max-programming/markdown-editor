@@ -40,15 +40,6 @@
 
 ![Website Up](https://img.shields.io/website?url=https://github.com/saviomartin/markdown-editor&logo=github&style=flat-square) <br>
 
-View the app live, share the happiness [https://discord-bysavio.web.app/](https://discord-bysavio.web.app/) <br>
-**⭐ this project, if you found it helpful**
-
-| <img src='https://instagram.fcok1-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/121058589_368794814264912_274949963043594246_n.jpg?_nc_ht=instagram.fcok1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=mTw9r3hZKAUAX-u83pT&oh=38215736dd85043c8920147129dca7e9&oe=5FC619F4' height='35%'> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Like the Post](https://img.shields.io/static/v1?label=&message=Like%20this%20post%20On%20Instagram&color=ebebec&style=for-the-badge&logo=instagram)](https://www.instagram.com/p/CGNQrBVBubs/)                                                                                  |
-| Follow me on [Github](https://github.com/saviomartin) and [Instagram](https://instagram.com/teen_developer)                                                                                                                                                                        |
-
-
 ## Live Markdown Editor Features 🎮
 
 - **Markdown Support**
@@ -96,10 +87,10 @@ Live Markdown Editor is licensed under the MIT license. [https://opensource.org/
 
 ## Developer ⚡
 
-| <img src='https://avatars.githubusercontent.com/saviomartin' height='75%'>                                  |
-| ----------------------------------------------------------------------------------------------------------- |
-| Live Markdown Editor Developer and Maintainer                                                               |
-| Follow me on [Github](https://github.com/saviomartin) and [Instagram](https://instagram.com/teen_developer) |
+|  <img src='https://avatars.githubusercontent.com/saviomartin' height='75%'> |
+|--|
+| Discord Clone Developer and Maintainer |
+|Follow me on [Github](https://github.com/saviomartin) and [Instagram](https://instagram.com/teen_developer)  |
 
 -----
 
